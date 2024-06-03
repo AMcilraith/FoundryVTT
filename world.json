@@ -1,0 +1,251 @@
+{
+  "title": "DnD Template",
+  "id": "dnd-template",
+  "system": "dnd5e",
+  "joinTheme": "default",
+  "description": "<p>Template</p>",
+  "coreVersion": "11.315",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "systemVersion": "3.2.0",
+  "lastPlayed": "Mon Jun 03 2024 12:06:24 GMT-0500 (Central Daylight Time)",
+  "packs": [
+    {
+      "type": "Item",
+      "label": "DDB Backgrounds",
+      "name": "ddb-dnd-template-ddb-backgrounds",
+      "path": "packs/ddb-dnd-template-ddb-backgrounds",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.ddb-dnd-template-ddb-backgrounds",
+      "packageType": "world",
+      "packageName": "dnd-template",
+      "index": [],
+      "folders": []
+    },
+    {
+      "type": "Item",
+      "label": "DDB Classes",
+      "name": "ddb-dnd-template-ddb-classes",
+      "path": "packs/ddb-dnd-template-ddb-classes",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.ddb-dnd-template-ddb-classes",
+      "packageType": "world",
+      "packageName": "dnd-template",
+      "index": [],
+      "folders": []
+    },
+    {
+      "type": "Item",
+      "label": "DDB Subclasses",
+      "name": "ddb-dnd-template-ddb-subclasses",
+      "path": "packs/ddb-dnd-template-ddb-subclasses",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.ddb-dnd-template-ddb-subclasses",
+      "packageType": "world",
+      "packageName": "dnd-template",
+      "index": [],
+      "folders": []
+    },
+    {
+      "type": "Item",
+      "label": "DDB Class Features",
+      "name": "ddb-dnd-template-ddb-class-features",
+      "path": "packs/ddb-dnd-template-ddb-class-features",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.ddb-dnd-template-ddb-class-features",
+      "packageType": "world",
+      "packageName": "dnd-template",
+      "index": [],
+      "folders": []
+    },
+    {
+      "type": "Item",
+      "label": "DDB Feats",
+      "name": "ddb-dnd-template-ddb-feats",
+      "path": "packs/ddb-dnd-template-ddb-feats",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.ddb-dnd-template-ddb-feats",
+      "packageType": "world",
+      "packageName": "dnd-template",
+      "index": [],
+      "folders": []
+    },
+    {
+      "type": "Item",
+      "label": "DDB Items",
+      "name": "ddb-dnd-template-ddb-items",
+      "path": "packs/ddb-dnd-template-ddb-items",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.ddb-dnd-template-ddb-items",
+      "packageType": "world",
+      "packageName": "dnd-template",
+      "index": [],
+      "folders": []
+    },
+    {
+      "type": "Actor",
+      "label": "DDB Monsters",
+      "name": "ddb-dnd-template-ddb-monsters",
+      "path": "packs/ddb-dnd-template-ddb-monsters",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.ddb-dnd-template-ddb-monsters",
+      "packageType": "world",
+      "packageName": "dnd-template",
+      "index": [],
+      "folders": []
+    },
+    {
+      "type": "Actor",
+      "label": "DDB Vehicles",
+      "name": "ddb-dnd-template-ddb-vehicles",
+      "path": "packs/ddb-dnd-template-ddb-vehicles",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.ddb-dnd-template-ddb-vehicles",
+      "packageType": "world",
+      "packageName": "dnd-template",
+      "index": [],
+      "folders": []
+    },
+    {
+      "type": "Item",
+      "label": "DDB Races",
+      "name": "ddb-dnd-template-ddb-races",
+      "path": "packs/ddb-dnd-template-ddb-races",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.ddb-dnd-template-ddb-races",
+      "packageType": "world",
+      "packageName": "dnd-template",
+      "index": [],
+      "folders": []
+    },
+    {
+      "type": "Item",
+      "label": "DDB Racial Traits",
+      "name": "ddb-dnd-template-ddb-racial-traits",
+      "path": "packs/ddb-dnd-template-ddb-racial-traits",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.ddb-dnd-template-ddb-racial-traits",
+      "packageType": "world",
+      "packageName": "dnd-template",
+      "index": [],
+      "folders": []
+    },
+    {
+      "type": "Item",
+      "label": "DDB Spells",
+      "name": "ddb-dnd-template-ddb-spells",
+      "path": "packs/ddb-dnd-template-ddb-spells",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.ddb-dnd-template-ddb-spells",
+      "packageType": "world",
+      "packageName": "dnd-template",
+      "index": [],
+      "folders": []
+    },
+    {
+      "type": "RollTable",
+      "label": "DDB Tables",
+      "name": "ddb-dnd-template-ddb-tables",
+      "path": "packs/ddb-dnd-template-ddb-tables",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.ddb-dnd-template-ddb-tables",
+      "packageType": "world",
+      "packageName": "dnd-template",
+      "index": [],
+      "folders": []
+    },
+    {
+      "type": "Item",
+      "label": "DDB Override",
+      "name": "ddb-dnd-template-ddb-override",
+      "path": "packs/ddb-dnd-template-ddb-override",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.ddb-dnd-template-ddb-override",
+      "packageType": "world",
+      "packageName": "dnd-template",
+      "index": [],
+      "folders": []
+    }
+  ],
+  "playtime": 537
+}
